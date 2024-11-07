@@ -1,4 +1,21 @@
-﻿#include <iostream>
+﻿/*
+Napraviti generičku klasu Red sa sljedećim metodama:
+● konstruktor koji kreira prazan red;
+● po potrebi destruktor, konstruktor kopije, operator dodjele;
+● metodu brisi() koja briše sve elemente iz reda;
+● metodu stavi(const Tip& el) koja stavlja jedan element na kraj reda;
+● metodu skini() koja vraća element na čelu (početku) reda i ujedno ga briše iz reda, odnosno
+baca izuzetak ako je red prazan;
+● metodu celo() koja vraća referencu na element na čelu (početku) reda ali ga ne briše iz reda,
+odnosno baca izuzetak ako je red prazan;
+● metodu brojElemenata() koja vraća broj elemenata koji se trenutno nalaze u redu.
+Implementaciju ove klase možete uraditi na bilo koji način, ali imajte na umu da će se mjeriti i
+performanse rješenja (vremenska i memorijska složenost). U pozadini klase Red je dozvoljeno
+ koristiti predhodno implementiranu klasu Lista, nije dozvoljeno korištenje bibliotečne klase vector..
+Veličina reda ne smije biti ograničena.
+*/
+
+#include <iostream>
 using namespace std;
 
 template<typename Tip> class Red {
