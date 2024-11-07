@@ -6,7 +6,9 @@ Welcome to my repository for **Algorithms and Data Structures**! This repository
 
 - **Homeworks**: A series of assignments covering fundamental topics like sorting algorithms, searching techniques, dynamic programming, graphs, and more.
 - **Preparatoru Exercises**: Additional exercises to prepare for the course exams, focusing on key algorithmic concepts and problem-solving techniques.
-  
+
+In the "Preparatory Exercises" branch, they have all the preparatory exercises from the laboratory, and in "Assignments" they have all the assignments during the course.
+
 ## Topics Covered
 
 - **Searching Algorithms** (Binary Search, Linear Search, etc.)
@@ -16,3 +18,31 @@ Welcome to my repository for **Algorithms and Data Structures**! This repository
 - **Data Structures** (Arrays, Linked Lists, Stacks, Queues, Trees, Hash Maps, Heaps)
 - **Greedy Algorithms**
 - **Complexity Analysis** (Big-O Notation)
+
+
+
+##
+
+
+
+# Algoritmi i Strukture Podataka
+
+Dobrodošli u moj repozitorij za **Algoritme i Strukture Podataka**! Ovaj repozitorij sadrži domaće zadatke i pripremne vježbe koje sam riješio kao dio kolegija na ovu temu. Prikazuje razne algoritme i strukture podataka i implementacije koda struktura podataka.
+
+## Sadržaj
+
+- **Domaći zadaci**: Serija zadataka koji pokrivaju osnovne teme kao što su algoritmi sortiranja, tehnike pretraživanja, dinamičko programiranje, grafovi i još mnogo toga.
+- **Pripremne vježbe**: Dodatne vježbe za pripremu za ispit, fokusirane na ključne algoritamske koncepte i tehnike rješavanja problema.
+
+U Branchu "Pripremne Vjezbe" imaju sve pripremne vježbe sa labaratorija, a u "Zadaće" imaju sve zadaće tokom kursa.
+  
+## Pokrivene teme
+
+- **Algoritmi pretraživanja** (Binary Search, Linear Search, itd.)
+- **Rekurzija i Podjela i Osvoji**
+- **Dinamičko programiranje**
+- **Algoritmi grafova** (BFS, DFS, Dijkstra, itd.)
+- **Strukture podataka** (Nizovi, Povezane liste, Staci, Redovi, Drveće, Hash Mape, Hrpe)
+- **Greedy algoritmi**
+- **Analiza složenosti** (Big-O Notacija)
+
