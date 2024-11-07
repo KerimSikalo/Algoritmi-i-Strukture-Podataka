@@ -290,17 +290,14 @@ element 8 na vrhu steka.Rezultantni stek se sastoji od elemenata{ 1, 2, 3, 4, 5,
 element 8 na vrhu steka*/
 
 template <typename Tip>
-void ubaciNaDno(Stek<Tip>& s , Red<Tip>& r, int pocetnaDuzinaReda) 
+void ubaciNaDno(Stek<Tip>& s, Red<Tip>& r, int pocetnaDuzinaReda)
 {
-	for (int i = 0; i<=pocetnaDuzinaReda; i++) 
-	{
-		s.stavi(r.celo());
-		r.stavi(r.celo());
-		r.skini();
-	}
+	if (pocetnaDuzinaReda == 0) return;
+
+	Tip element = r.skini();
+	ubaciNaDno(s, r, pocetnaDuzinaReda - 1);
+	s.stavi(element);
 }
-
-
 
 
 // TESTOVI METODA I FUNKCIJA// 
