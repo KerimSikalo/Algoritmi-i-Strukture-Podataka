@@ -21,19 +21,10 @@ int fib_petlja(int n) {
 
 int fib2_0(int n,int a = 0, int b=1) 
 {
-	if (n == 0) return a;
-	if (n == 1) return b;
-	int rez = a + b;
-	a = b;
-	b = rez;
-    return fib2_0(n - 1, a, b);
+    if (n == 0) return a;
+    if (n == 1) return b;
+    return fib2_0(n - 1, b, a+b);
 }
-
-int fib_petlja(int n) {
-    if (n <= 1) return n; // 0 i 1
-    return fib2_0(n-1);
-}
-
 
 /*
 Zadatak 2.
