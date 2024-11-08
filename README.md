@@ -4,10 +4,9 @@ Welcome to my repository for **Algorithms and Data Structures**! This repository
 
 ## Contents
 
-- **Homeworks**: A series of assignments covering fundamental topics like sorting algorithms, searching techniques, dynamic programming, graphs, and more.
-- **Preparatoru Exercises**: Additional exercises to prepare for the course exams, focusing on key algorithmic concepts and problem-solving techniques.
+- **Homeworks (Z)**: A series of assignments covering fundamental topics like sorting algorithms, searching techniques, dynamic programming, graphs, and more.
+- **Preparatoru Exercises (PZ)**: Additional exercises to prepare for the course exams, focusing on key algorithmic concepts and problem-solving techniques.
 
-In the "Preparatory Exercises" branch, they have all the preparatory exercises from the laboratory, and in "Assignments" they have all the assignments during the course.
 
 ## Topics Covered
 
@@ -31,10 +30,9 @@ Dobrodošli u moj repozitorij za **Algoritme i Strukture Podataka**! Ovaj repozi
 
 ## Sadržaj
 
-- **Domaći zadaci**: Serija zadataka koji pokrivaju osnovne teme kao što su algoritmi sortiranja, tehnike pretraživanja, dinamičko programiranje, grafovi i još mnogo toga.
-- **Pripremne vježbe**: Dodatne vježbe za pripremu za ispit, fokusirane na ključne algoritamske koncepte i tehnike rješavanja problema.
+- **Zadaće (Z)**: Serija zadataka koji pokrivaju osnovne teme kao što su algoritmi sortiranja, tehnike pretraživanja, dinamičko programiranje, grafovi i još mnogo toga.
+- **Pripremne vježbe (PZ)**: Dodatne vježbe za pripremu za ispit, fokusirane na ključne algoritamske koncepte i tehnike rješavanja problema.
 
-U Branchu "Pripremne Vjezbe" imaju sve pripremne vježbe sa labaratorija, a u "Zadaće" imaju sve zadaće tokom kursa.
   
 ## Pokrivene teme
 
